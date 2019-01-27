@@ -1,6 +1,6 @@
 # Fundamentos de Programacion 
 
-Repositorio creado con el fin de pasar esta hijueputa materia a las 6 de la mañana :)
+Repositorio creado con el fin de pasar esta preciosa materia a las 6 de la mañana :)
 
   - Profe paseme plz :'v
   - Yo no hice esto
@@ -8,6 +8,6 @@ Repositorio creado con el fin de pasar esta hijueputa materia a las 6 de la mañ
 
 # Dependencias
 ```sh
-127.0.0.1:8000
+Esta /u/
 ```
-Hecho con amor desde la UEIA <3 
+Hecho con amor desde la 'Inserte ubicacion aqui' <3 
