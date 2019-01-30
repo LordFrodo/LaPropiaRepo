@@ -8,6 +8,6 @@ Repositorio creado con el fin de pasar esta preciosa materia a las 6 de la maña
 
 # Dependencias
 ```sh
-Esta /u/
+0
 ```
 Hecho con amor desde la 'Inserte ubicacion aqui' <3 
