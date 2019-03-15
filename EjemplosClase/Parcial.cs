@@ -1,12 +1,12 @@
 using System;
 
-class Cacorra
+class Parcial
 {
 
     string[] names;
     double[] data;
 
-    public Cacorra(string[] _names, double[] _data)
+    public Parcial(string[] _names, double[] _data)
     {
         data = new double[_data.Length];
         _data.CopyTo(data, 0);
@@ -163,7 +163,7 @@ class Cacorra
         string  [] nom = new string[10] { "A1", "B2", "c3", "A4", "c5" ,"B6","c7","A8","c9","A10"};
         double  [] not = new double[10] { 3.0, 2.9, 4.5, 1.8, 3.6, 2.2, 1.6, 4.5, 3.2, 4.0 };
 
-        Cacorra c = new Cacorra(nom,not);
+        Parcial c = new Cacorra(nom,not);
 
         string [] s1 = c.CuartoPunto();
 
